@@ -55,7 +55,7 @@ The dashboard provides live project statistics including:
 ## 📂 Project Structure
 
 ```
-NexLink/
+NexLink_url_shortener/
 │
 ├── admin1/
 │   ├── login.php
@@ -87,7 +87,7 @@ NexLink/
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/nexlink.git
+git clone https://github.com/taimurbaloch/nexlink.git
 ```
 
 2. Move the project folder into XAMPP's `htdocs` directory.
@@ -105,7 +105,7 @@ url_shortener
 6. Open your browser:
 
 ```
-http://localhost/NexLink/
+http://localhost/NexLink_url_shortener/
 ```
 
 ---
